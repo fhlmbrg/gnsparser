@@ -10,4 +10,4 @@ Build your Dynagen/GNS3 topology then drag and drop your .net file on to the fie
 * Current version support router nodes with point-to-point connections.
 * Use default hostnames (R1, R5, R10 ..). If you need a custom naming scheme apply it afterwards.
 
-![GNSparser](http://bildr.no/thumb/TFkxOTYy.jpeg)
+![GNSparser](http://bildr.no/image/TFkxOTYy.jpeg)
