@@ -1,5 +1,5 @@
 ## Screenshot:
-![GNSparser](http://bildr.no/image/TFkxOTYy.jpeg)
+![GNSparser](http://bildr.no/image/R29pSTlm.jpeg)
 
 ## How it works:
 Copy the files to a webserver and open up http://<hostname>/index.php
