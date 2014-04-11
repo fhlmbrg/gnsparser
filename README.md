@@ -1,3 +1,5 @@
+The network lab config generator.
+
 ## How it works:
 Copy the files to a webserver and open up http://<hostname>/index.php
 
