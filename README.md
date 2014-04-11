@@ -1,4 +1,5 @@
-The network lab config generator.
+## Screenshot:
+![GNSparser](http://bildr.no/image/TFkxOTYy.jpeg)
 
 ## How it works:
 Copy the files to a webserver and open up http://<hostname>/index.php
@@ -9,5 +10,3 @@ Build your Dynagen/GNS3 topology then drag and drop your .net file on to the fie
 * Write access to the folder named "files".
 * Current version support router nodes with point-to-point connections.
 * Use default hostnames (R1, R5, R10 ..). If you need a custom naming scheme apply it afterwards.
-
-![GNSparser](http://bildr.no/image/TFkxOTYy.jpeg)
